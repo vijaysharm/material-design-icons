@@ -11,7 +11,7 @@ dependencies {
 android {
     compileSdkVersion 21
     buildToolsVersion "21.1.2"
-    resourcePrefix 'twowayview_'
+    resourcePrefix 'materialdesignicons_'
 
     defaultConfig {
         minSdkVersion 10
