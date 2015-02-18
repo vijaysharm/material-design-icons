@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.vijaysharma.materialdesignicons.sample;
+package ca.vijaysharma.materialdesignicons.sample;
 
 import android.app.Activity;
 import android.os.Bundle;

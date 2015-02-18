@@ -13,7 +13,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.vijaysharma.materialdesignicons"
+          package="ca.vijaysharma.materialdesignicons"
           android:versionCode="1"
           android:versionName="1" >
 
