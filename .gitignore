@@ -17,5 +17,7 @@ proguard.cfg
 .DS_Store
 .gradle
 build
-library/build
 sample/build
+icons/build
+icons/src/main/res
+
