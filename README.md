@@ -66,3 +66,9 @@ signing.secretKeyRingFile=...
 ```
 # ./gradlew uploadArchives
 ```
+
+Sample App
+==========
+Wading through the icons can be a pain. You can build and install the sample app to see a list of all the icons. You can search for specific icons, and you can change the background color to match with your theme to see which one will work best.
+
+![](images/material-icon.mov.gif)
