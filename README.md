@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    compile 'ca.vijaysharma.materialdesignicons:icons:1.0.0-SNAPSHOT@aar'
+    compile 'ca.vijaysharma:material-design-icons:1.0.0-SNAPSHOT@aar'
 }
 ```
 
