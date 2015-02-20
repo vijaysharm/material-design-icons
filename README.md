@@ -1,5 +1,6 @@
 Matrial Design Icon Pack
 ========================
+NOTE: I just discovered [this](https://github.com/konifar/android-material-design-icon-generator-plugin). Personally that solution sounds better than this one. Consider using it if you're using Android Studio!
 
 An Android friendly way of adding [Matrial Design Icons](https://github.com/google/material-design-icons) to your Android application
 
