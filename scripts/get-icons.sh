@@ -26,4 +26,7 @@ do
 	done
 done 
 
+echo "Removing $localFolder"
+rm -rf "$localFolder"
+
 echo "Done"
